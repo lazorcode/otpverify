@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854053489214",
+    "project_id": "phone-3480d",
+    "storage_bucket": "phone-3480d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854053489214:android:69fa3fadc87f20a514df6f",
+        "android_client_info": {
+          "package_name": "com.example.otpveri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854053489214-4h4r5jl1he182pkqr2p603j83rlio74p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKX_jEAXfd0tI9B98sYsAuJzDrUPCtLGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854053489214-4h4r5jl1he182pkqr2p603j83rlio74p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
